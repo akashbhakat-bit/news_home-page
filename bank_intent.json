@@ -1,0 +1,165 @@
+{"intents": [
+        {"tag": "qiwi_bank",
+         "patterns": ["qiwi bank","10056146","qiwi bank","10056146"],
+         "responses": ["10056146"],
+         "context": [""]
+        },
+        
+        {"tag": "pjsc_rosbank",
+         "patterns": ["rosbank","ros bank","roz bank","rose bank","10043853","pjsc rosbank","pjsc ros bank","10043853","10043853","ross bank"],
+         "responses": ["10043853"],
+         "context": [""]
+        },
+        {"tag": "jscb_soyuz",
+         "patterns": ["jscb soyuz","jscb bank","jscb","soyuz bank","10045583","10045583","10045583"],
+         "responses": ["10045583"],
+         "context": [""]
+        },
+        {"tag": "far_eastern_bank",
+         "patterns": ["far eastern bank","far eastern","eastern far","far east","10035745","10035745","10035745"],
+         "responses": ["10035745"],
+         "context": [""]
+        },
+        {"tag": "jsc_alfa_bank",
+         "patterns": ["jsc alfa bank","10037454","alfa bank","10037454","10037454"],
+         "responses": ["10037454"],
+         "context": [""]
+        },   
+        {"tag": "sberbank_of_russia ",
+         "patterns": ["sberbank of russia","10029889","sberbank russia","10029889","10029889","sber bank"],
+         "responses": ["10029889"],
+         "context": [""]
+        },  
+        {"tag": "west_siberian_commercial_bank",
+         "patterns": ["west siberian commercial bank","10034259","siberian commercial","west siberian","10034259","10034259"],
+         "responses": ["10034259"],
+         "context": [""]
+        },   
+        {"tag": "cb_locko_bank",
+         "patterns": ["cb locko bank","10055169","locko bank","10055169","10055169"],
+         "responses": ["10055169"],
+         "context": [""]
+        },
+        {"tag": "pjsc_jvant_mobile_bank",
+         "patterns": ["pjsc jvant mobile bank","kvant bank","mobile bank","kvant mobile","pjsc kvant","pjsc bank","10052487","10052487","10052487"],
+         "responses": ["10052487"],
+         "context": [""]
+        },        
+        {"tag": "bank_ermk_jsc_nizhnevartovsk",
+         "patterns": ["bank_ermk_jsc_nizhnevartovsk","10052520","10052520","10052520","ermk bank","nizhnevartovsk bank","ermk nizhnevartovsk"],
+         "responses": ["10052520"],
+         "context": [""]
+        },
+                {"tag": "jsc_otp_bank",
+         "patterns": ["jsc otp bank","10050194","otp bank","otp bank","10050194","10050194"],
+         "responses": ["10050194"],
+         "context": [""]
+        },
+        {"tag": "jsc_petersburg_social_commercial_bank",
+         "patterns": ["jsc petersburg social commercial bank","100572904","petersburg social","petersburg commercial","100572904","100572904"],
+         "responses": ["10057290"],
+         "context": [""]
+        },
+        {"tag": "jscb_centrocredit",
+         "patterns": ["jscb centrocredit","10048982","centrocredit bank","10048982","10048982"],
+         "responses": ["10048982"],
+         "context": [""]
+        },
+        {"tag": "jscb_interprombank",
+         "patterns": ["jscb interprombank","10041788","interprom bank","10041788","10041788"],
+         "responses": ["10041788"],
+         "context": [""]
+        },
+        {"tag": "kb_ns_bank_zao",
+         "patterns": ["kb ns bank zao","10052870","zao bank","10052870","10052870"],
+         "responses": ["10052870"],
+         "context": [""]
+        },
+        {"tag": "limited_liability_company_bank_avers",
+         "patterns": ["limited liability company bank avers","10065790","limited liability","10065790","10065790"],
+         "responses": ["10065790"],
+         "context": [""]
+        },
+        {"tag": "moscow_jscb_vozrozhdeniye",
+         "patterns": ["moscow jscb vozrozhdeniye","10036842","moscow vozrozhdeniye","10036842","10036842"],
+         "responses": ["10036842"],
+         "context": [""]
+        },
+        {"tag": "primtercombank_co_ltd",
+         "patterns": ["primtercombank","10076140","primtercom bank","10076140","10076140"],
+         "responses": ["10076140"],
+         "context": [""]
+        },
+        {"tag": "public_jsc_sovcombank ",
+         "patterns": ["public jsc sovcombank","10062487","sovcom bank","10062487","10062487"],
+         "responses": ["10062487"],
+         "context": [""]
+        },
+        {"tag": "sdm_bank",
+         "patterns": ["sdm bank","10038215","sdm bank","sdm","10038215","10038215"],
+         "responses": ["10038215"],
+         "context": [""]
+        },
+        {"tag": "severny_nardony_bank",
+         "patterns": ["severny nardony bank","10055005","severny nardony","10055005","10055005"],
+         "responses": ["10055005"],
+         "context": [""]
+        },
+        {"tag": "unistream_commercial_bank",
+         "patterns": ["unistream commercial bank","10073725","unistream commercial","10073725","10073725"],
+         "responses": ["10073725"],
+         "context": [""]
+        },
+        {"tag": "ao_unicredit_bank",
+         "patterns": ["ao unicredit bank","10031605","ao unicredit","unicredit bank"],
+         "responses": ["10031605"],
+         "context": [""]
+        },
+        {"tag": "banca_intesa",
+         "patterns": ["banca intesa","10050680"],
+         "responses": ["10050680"],
+         "context": [""]
+        },
+        {"tag": "bank_orange",
+         "patterns": ["bank orange","10054832"],
+         "responses": ["10054832"],
+         "context": [""]
+        },
+        {"tag": "cb_euro_asian_investment_bank",
+         "patterns": ["cb euro asian investment bank","10067079"],
+         "responses": ["10067079"],
+         "context": [""]
+        },
+        {"tag": "cb_slavyansi_credit_ltd",
+         "patterns": ["cb slavyansi credit ltd","10049078"],
+         "responses": ["10049078"],
+         "context": [""]
+        },
+        {"tag": "cjsc_solid_bank",
+         "patterns": ["cjsc solid bank","10074939"],
+         "responses": ["10074939"],
+         "context": [""]
+        },
+        {"tag": "credit_union_payment_bank",
+         "patterns": ["credit union payment bank","10068546"],
+         "responses": ["10068546"],
+         "context": [""]
+        },
+        {"tag": "ic_bank_jsc",
+         "patterns": ["ic bank jsc","10060939"],
+         "responses": ["10060939"],
+         "context": [""]
+        },
+        {"tag": "interprogress_bank",
+         "patterns": ["interprogress bank","interprogressbank","10060141"],
+         "responses": ["10060141"],
+         "context": [""]
+        },
+        {"tag":"not_bank",
+        "patterns":["january","jan","一 月" ,"february","feb","二 月" ,"march","mar","三 月","april","apr","四 月" ,"may","五 月","mey","meh","june","jun","六 月" ,"july","jul","七 月","aug","august","八 月" ,"septmeber","sept","sep","九 月","october","oct","十 月","november","nov","十一 月" ,"december","dec","十二 月","transaction","type","credit","debit","prepaid","product type","product","type","tran type","txn"],
+        "responses":"not",
+        "context":[""]
+        }
+      
+]
+}
